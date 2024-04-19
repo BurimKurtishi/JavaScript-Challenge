@@ -7,3 +7,8 @@ I crated a javascript a code to add a promp and to collect the infromation about
 I used a employeesarray.reduce to calculate a average salary for the employees.
 
 Alos I used math.floor and math.rendom to select and display a rendom employee.
+
+https://github.com/BurimKurtishi/JavaScript-Challenge
+
+
+https://burimkurtishi.github.io/JavaScript-Challenge/
